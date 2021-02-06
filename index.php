@@ -1,5 +1,4 @@
 <?php
-
-$title = 'Hello!';
+φο$title = 'Hello!';
 
 echo $title;
