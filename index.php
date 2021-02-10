@@ -1,4 +1,4 @@
-<?php
+ó<?php
 
 $title = 'Hello!!!';
 
